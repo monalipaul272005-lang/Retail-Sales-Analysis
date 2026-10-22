@@ -74,4 +74,6 @@ Excel, Python, and Power BI analysis have been started. SQL queries and final po
 **Monali Paul**
 
 Aspiring Data Analyst | Excel | Python | Power BI | MySQL
+## 📊 Power BI Dashboard
 
+![Retail Sales Dashboard](Retail_Sales_Dashboard.png)
